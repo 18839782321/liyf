@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0010e00c-1f9e-4bad-9a37-a196413bc514" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/projects/zhilian/docs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_job_detail.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_search_jobs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhilian/zhilian/units/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/zhilian/zhilian/units/get_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/zoro_spider/docs/__init__.py" beforeDir="false" />
-    </list>
+    <list default="true" id="0010e00c-1f9e-4bad-9a37-a196413bc514" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,35 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="zhaopin_search_jobs.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_search_jobs.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="643">
-                <caret line="35" selection-start-line="35" selection-end-line="36" selection-end-column="39" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zhaopin_search_jobs.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_search_jobs.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="zhaopin_company_detail.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_company_detail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding>
-                <element signature="e#24#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="zhaopin_company.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.png">
           <provider selected="true" editor-type-id="images" />
@@ -109,6 +70,39 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="zhaopin_job_detail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_job_detail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhaopin_company_detail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_company_detail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="806">
+              <caret line="75" column="38" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="75" selection-end-column="38" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="zhaopin_job_detail.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_job_detail.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -151,11 +145,11 @@
         <option value="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_job_detail.md" />
         <option value="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md.py" />
         <option value="$PROJECT_DIR$/projects/zhilian/zhilian/settings.py" />
-        <option value="$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_job_detail.py" />
-        <option value="$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_company_detail.py" />
         <option value="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md" />
         <option value="$PROJECT_DIR$/projects/zhilian/docs/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_company_detail.py" />
+        <option value="$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_job_detail.py" />
       </list>
     </option>
   </component>
@@ -376,7 +370,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16577825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1641791" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -469,37 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_job_detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-            <element signature="e#419#2057#0" />
-            <element signature="e#2098#3421#0" />
-            <element signature="e#4196#8543#0" />
-            <element signature="e#8594#11295#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_company_detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_search_jobs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -529,16 +492,6 @@
     <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/zoro_spider/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="419">
-            <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -554,6 +507,43 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_company_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="75" column="38" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="75" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_job_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/zoro_spider/docs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="419">
+            <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
           </first_editor>
           <second_editor />
         </state>
