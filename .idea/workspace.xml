@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0010e00c-1f9e-4bad-9a37-a196413bc514" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/docs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/docs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/zoro_spider/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/zoro_spider/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/zoro_spider/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/zoro_spider/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/zoro_spider/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/zoro_spider/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_spider/zoro_spider/zoro_spider/spiders/zoro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <first_editor relative-caret-position="160">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -264,8 +254,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <first_editor relative-caret-position="160">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
