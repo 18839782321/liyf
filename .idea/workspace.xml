@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0010e00c-1f9e-4bad-9a37-a196413bc514" name="Default" comment="" />
+    <list default="true" id="0010e00c-1f9e-4bad-9a37-a196413bc514" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="416">
-                <caret line="10" column="132" selection-start-line="10" selection-start-column="132" selection-end-line="10" selection-end-column="132" />
+              <first_editor relative-caret-position="643">
+                <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -144,13 +146,13 @@
         <option value="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_job_detail.md" />
         <option value="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md.py" />
         <option value="$PROJECT_DIR$/projects/zhilian/zhilian/settings.py" />
-        <option value="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md" />
         <option value="$PROJECT_DIR$/projects/zhilian/docs/README.md" />
         <option value="$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_company_detail.py" />
         <option value="$PROJECT_DIR$/projects/zhilian/zhilian/spiders/zhaopin_job_detail.py" />
         <option value="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_search_jobs.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/projects/zoro_spider/docs/README.md" />
+        <option value="$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md" />
       </list>
     </option>
   </component>
@@ -165,8 +167,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="width" value="1300" />
-    <option name="height" value="980" />
+    <option name="y" value="-8" />
+    <option name="width" value="910" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -534,8 +537,8 @@
     <entry file="file://$PROJECT_DIR$/projects/zhilian/docs/zhaopin_company.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="416">
-            <caret line="10" column="132" selection-start-line="10" selection-start-column="132" selection-end-line="10" selection-end-column="132" />
+          <first_editor relative-caret-position="643">
+            <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
