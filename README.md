@@ -3,6 +3,7 @@
 ### ***[zoro](projects/zoro_spider)***
 ### ***[智联招聘](projects/zhilian)***
 ### ***[homedepot](projects/homedepot)***
+### ***[算法](projects/algorithm)***
 
 
 #### 所有爬虫项目仅供学习参考，非本人使用而产生的纠纷与一切后果均与本人无关。
