@@ -20,5 +20,5 @@
     * 社会招聘
 ***
 
-## 查看运行结果
+## 运行结果截图
 ![run_history](zhaopin_job_detail.png)

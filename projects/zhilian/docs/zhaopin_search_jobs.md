@@ -40,5 +40,5 @@
 * 建议在本地跑，不封IP
 ***
 
-## 查看运行历史
+## 运行结果截图
 ![run_history](zhaopin_search_jobs.png)
