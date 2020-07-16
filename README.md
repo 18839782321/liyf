@@ -1,9 +1,9 @@
-# 爬虫文档(智联招聘、zoro)
+# 爬虫目录(智联招聘、zoro)
 
-## [zoro](projects/zoro_spider/docs/README.md)
+## [zoro](projects/zoro_spider)
 ***
 
-## [智联招聘](projects/zhilian/docs/README.md)
+## [智联招聘](projects/zhilian)
 ***
 
 
