@@ -6,6 +6,7 @@
 > [homedepot](projects/homedepot)| [README](projects/homedepot/docs)
 > [算法](projects/algorithm)| [README](projects/algorithm)
 > [实习僧](projects/shixiseng)| [README](projects/shixiseng/docs)
+> [sql工具](projects/Tools)| [README](projects/Tools)
 ***
 
 ### 所有爬虫项目仅供学习参考，非本人使用而产生的纠纷与一切后果均与本人无关。
